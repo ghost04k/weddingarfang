@@ -22,7 +22,7 @@ const CoupleSection = (props) => {
                 <p>
                   Par la grâce d’Allah (SWT), nous avons l’honneur et la joie de vous inviter à assister à la bénédiction de notre union sacrée.
                 </p>
-                <h3>💍 Arfang Karim Sarr & Ndeye Astou Kebe 💍</h3>
+                <h3>💍 Mr & Mme Sarr 💍</h3>
               </div>
             </div>
             {/* Colonne centrale : Image du couple avec ombre décorative */}

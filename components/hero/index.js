@@ -28,7 +28,7 @@ const Hero = (props) => {
                             {/* Bouton de téléchargement */}
                             <div className="download-button" style={{ marginTop: '20px' }}>
                                 <a 
-                                    href="/pdf/invitation.pdf" 
+                                    href="/pdf/invitation1.pdf" 
                                     download 
                                     className="btn btn-primary" 
                                     style={{
@@ -56,7 +56,7 @@ const Hero = (props) => {
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
                         <Image 
-                            src="/images/slider/yes.JPG" // ✅ chemin direct depuis /public
+                            src="/images/slider/yess.JPG" // ✅ chemin direct depuis /public
                             alt="invit" 
                             width={800}
                             height={600}

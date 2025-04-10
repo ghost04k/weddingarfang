@@ -78,7 +78,7 @@ const StorySection2 = (props) => {
                 {/* Bouton de téléchargement du document PDF */}
                 <div className="download-pdf" style={{ marginTop: '20px', textAlign: 'center' }}>
                     <a 
-                      href="/mawhub next js/public/documents/Invitation.pdf" 
+                      href="/mawhub next js/public/documents/Invitation1.pdf" 
                       download 
                       className="btn-download" 
                       style={{
