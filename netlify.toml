@@ -1,0 +1,4 @@
+[build]
+  base = "mawhub-next-js"
+  command = "npm install --legacy-peer-deps && npm run build"
+  publish = "mawhub-next-js/.next"
