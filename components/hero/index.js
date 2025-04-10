@@ -1,12 +1,7 @@
-import React from 'react'
-import TimeCountDown from '../countdown'
-import hImg1 from '/public/images/slider/s1.jpg'
-import shape from '/public/images/slider/shape.png'
-import first from '/public/images/slider/first.jpg'
-import Image from 'next/image'
-//import invitationarf from '/public/images/slider/invitationarf.jpg'
-//import invitationarf from '/public/images/invitationarf.jpg' // Garder celui-ci
-import yes from '/public/images/slider/yes.jpg' // Garder celui-ci
+import React from 'react';
+import TimeCountDown from '../countdown';
+import shape from '/public/images/slider/shape.png';
+import Image from 'next/image';
 
 const Hero = (props) => {
     return (
@@ -60,10 +55,12 @@ const Hero = (props) => {
             <div className="static-hero-right">
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
-                        <Image src={yes} alt="invit" />
-                        
-                       
-                        {/* <Image src={invitationarf} alt="" /> /> */}
+                        <Image 
+                            src="/images/slider/yes.jpg" // ✅ chemin direct depuis /public
+                            alt="invit" 
+                            width={800}
+                            height={600}
+                        />
                     </div>
                     <div className="static-hero-shape">
                         <Image src={shape} alt="" />
@@ -71,7 +68,7 @@ const Hero = (props) => {
                 </div>
             </div>
         </section>
-    )
-}
+    );
+};
 
 export default Hero;
