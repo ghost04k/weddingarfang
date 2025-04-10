@@ -17,6 +17,8 @@ import Scrollbar from '../components/scrollbar'
 
 const HomePage =() => {
 
+//     const [isOpen, setIsOpen] = useState(false);
+
     return(
         <Fragment>
             <Navbar hclass={'wpo-site-header-s1'}/>

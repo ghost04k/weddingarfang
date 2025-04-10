@@ -59,6 +59,8 @@ const Hero = (props) => {
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
                         <Image src={invitationarf} alt="" />
+                       
+                        {/* <Image src={first} alt="" /> */}
                     </div>
                     <div className="static-hero-shape">
                         <Image src={shape} alt="" />
