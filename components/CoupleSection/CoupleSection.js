@@ -53,7 +53,7 @@ const CoupleSection = (props) => {
                   <strong>📍 Lieu :</strong> Mosquée Keur Ndiaye Lo
                 </p>
                 <p>
-                  <strong>🏡 Adresse :</strong> Keur Ndiaye Lo à côté de la station Diapandal
+                  <strong>🏡 Adresse :</strong> Sortie 10 du péage, Keur Ndiaye Lo, Nouvelle Horizon, à côté de la station Diapandal.
                 </p>
                 <p>
                   <strong>📌 Localisation :</strong>{' '}

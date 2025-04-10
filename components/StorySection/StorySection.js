@@ -57,7 +57,7 @@ const StorySection = (props) => {
                         <div className="wpo-story-content">
                             <div className="wpo-story-content-inner">
                                 <span>💍</span>
-                                <h2>Il a fait sa demande, j'ai dit oui</h2>
+                                <h2>Il a fait sa demande, elle a dit oui</h2>
                                 <p>
                                     Leur amour a continué de grandir et, lors d'un moment inoubliable, Arfang a posé la question. Ndeye a répondu par l'affirmative, scellant ainsi leur engagement.
                                 </p>
