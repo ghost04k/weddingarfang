@@ -4,7 +4,8 @@ import hImg1 from '/public/images/slider/s1.jpg'
 import shape from '/public/images/slider/shape.png'
 import first from '/public/images/slider/first.jpg'
 import Image from 'next/image'
-import invitationarf from '/public/images/slider/invitationarf.jpg'
+//import invitationarf from '/public/images/slider/invitationarf.jpg'
+import invitationarf from '/public/images/invitationarf.jpg' // Garder celui-ci
 
 const Hero = (props) => {
     return (
