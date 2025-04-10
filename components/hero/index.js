@@ -6,6 +6,7 @@ import first from '/public/images/slider/first.jpg'
 import Image from 'next/image'
 //import invitationarf from '/public/images/slider/invitationarf.jpg'
 //import invitationarf from '/public/images/invitationarf.jpg' // Garder celui-ci
+import yes from '/public/images/slider/yes.jpg' // Garder celui-ci
 
 const Hero = (props) => {
     return (
@@ -59,6 +60,7 @@ const Hero = (props) => {
             <div className="static-hero-right">
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
+                        <Image src={yes} alt="invit" />
                         
                        
                         {/* <Image src={invitationarf} alt="" /> /> */}
