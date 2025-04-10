@@ -56,7 +56,7 @@ const Hero = (props) => {
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
                         <Image 
-                            src="/images/slider/yes.jpg" // ✅ chemin direct depuis /public
+                            src="/images/slider/yes.JPG" // ✅ chemin direct depuis /public
                             alt="invit" 
                             width={800}
                             height={600}
