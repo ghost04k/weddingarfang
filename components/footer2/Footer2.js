@@ -25,7 +25,7 @@ const Footer2 = (props) => {
                 <div className="container">
                     <div className="row">
                         <div className="col col-xs-12">
-                        <p className="copyright"> &copy; Copyright 2024 | <Link onClick={ClickHandler} href="/">Mawhub</Link> | All right
+                        <p className="copyright"> &copy; Copyright 2024 | <Link onClick={ClickHandler} href="/">wedding arfang</Link> | All right
                                 reserved.</p>
                         </div>
                     </div>
