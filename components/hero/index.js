@@ -5,7 +5,7 @@ import shape from '/public/images/slider/shape.png'
 import first from '/public/images/slider/first.jpg'
 import Image from 'next/image'
 //import invitationarf from '/public/images/slider/invitationarf.jpg'
-import invitationarf from '/public/images/invitationarf.jpg' // Garder celui-ci
+//import invitationarf from '/public/images/invitationarf.jpg' // Garder celui-ci
 
 const Hero = (props) => {
     return (
@@ -59,9 +59,9 @@ const Hero = (props) => {
             <div className="static-hero-right">
                 <div className="static-hero-img">
                     <div className="static-hero-img-inner">
-                        <Image src={invitationarf} alt="" />
+                        
                        
-                        {/* <Image src={first} alt="" /> */}
+                        {/* <Image src={invitationarf} alt="" /> /> */}
                     </div>
                     <div className="static-hero-shape">
                         <Image src={shape} alt="" />
