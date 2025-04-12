@@ -34,7 +34,7 @@ const StorySection = (props) => {
                                 <span>14 fév</span>
                                 <h2>Notre rencontre</h2>
                                 <p>
-                                    Arfang et Ndeye se sont rencontrés en terminale. Le 14 février, Arfang a déclaré sa flamme en offrant une rose, marquant ainsi le début de leur belle histoire.
+                                    Arfang et Astou se sont rencontrés en terminale. Le 14 février, Arfang a déclaré sa flamme en offrant une rose, marquant ainsi le début de leur belle histoire.
                                 </p>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ const StorySection = (props) => {
                                 <span>💍</span>
                                 <h2>Il a fait sa demande, elle a dit oui</h2>
                                 <p>
-                                    Leur amour a continué de grandir et, lors d'un moment inoubliable, Arfang a posé la question. Ndeye a répondu par l'affirmative, scellant ainsi leur engagement.
+                                    Leur amour a continué de grandir et, lors d'un moment inoubliable, Arfang a posé la question.Astou a répondu par l'affirmative, scellant ainsi leur engagement.
                                 </p>
                             </div>
                         </div>

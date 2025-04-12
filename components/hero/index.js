@@ -14,7 +14,7 @@ const Hero = (props) => {
                                 <h1>Save The Date</h1>
                             </div>
                             <div data-swiper-parallax="300" className="slide-title-2">
-                                <h2>Arfang & Ndeye </h2>
+                                <h2>Arfang & Astou </h2>
                             </div>
                             <div data-swiper-parallax="400" className="slide-text">
                                 <p>Jeudi 1er mai 2025 </p>
